@@ -25,12 +25,12 @@ When we think of learning a new task, trial and error is one of the natural way 
 
 #### Naive Model ( Before training )
 
-
+![](https://github.com/Sunil-Kumar-J-S/Lunar-Landing/blob/main/images/naive.gif)
 
 
 #### Moderately trained Model ( After 400 episodes of training )
 
-
+![](https://github.com/Sunil-Kumar-J-S/Lunar-Landing/blob/main/images/intermediate.gif)
 
 
 
