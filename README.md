@@ -2,21 +2,21 @@
 
 When we think of learning a new task, trial and error is the first thing that strikes our mind. We learn how our sorroundings responds to what we do. For example, while baby is learning to walk , it is aware of how sorroundings (gravity, obstacles ) responds to what steps it take. It seeks to repeat steps that leads it walk longer and avoid steps that makes it fall. Reinforcement Learning is based on this paradigm i.e learning from interaction with sorroudings.
 
-Reinforcement learning( RL ) has enabled machines to learn complicated games like chess. The Elo rating of chess grand master Magnus Carlsen, 2864 looks paltry when compared to AlphaZero( machine trained using RL), 4680. That's how much powerful reinforcement learning is. 
+Reinforcement learning( RL ) has enabled machines to learn complicated games like chess. The Elo rating of chess grandmaster Magnus Carlsen, 2864 looks paltry when compared to AlphaZero( machine trained using RL), 4680. That's how powerful reinforcement learning is. 
 
-In this project, I have implemented one of the simplest and widely popular "Q-learning" algorithm to teach a spacecraft to land on target pad.
+In this project, I have implemented one of the simplest and widely popular "Q-learning" algorithms to teach a spacecraft to land on a target pad.
 
 # Lunar Landing : 
 
-Problem statement : Space ship starts at top center with random initial force applied. It needs to be landed between the flags (home) using three engines.
+Problem statement: Space ship starts at the top center with random initial force applied. It needs to be landed between the flags (home) using three engines.
 
-Here the state space ( variables that determine the current poisition of our spacecraft are : 
-- Location of the spacecraft in horizontal and vertical direction ( x ,y) 
-- Linear Velocities in the horizontal and vertical direction (u,v)
+Here the state space ( variables that determine the current position of our spacecraft are : 
+- Location of the spacecraft in the horizontal and vertical directions ( x ,y) 
+- Linear Velocities in the horizontal(u) and vertical direction (v)
 - Angle at which our spacecraft is aligned 
 - Angular velocity of our spacecraft 
 
-Possible action our spacecraft can take are : 
+Possible actions our spacecraft can take are : 
 - Fire Left engine 
 - Fire right engine 
 - Fire Main engine (down engine)
