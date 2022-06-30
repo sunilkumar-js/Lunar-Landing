@@ -37,8 +37,10 @@ When we think of learning a new task, trial and error is one of the natural way 
 
 
 ## Comparision with Other Algorithms 
+
 ### Comparison
 <img src="/images/comparison.png" width="400" height="250"/>
+
 ### Progression 
 <img src="/images/progression.png" width="1000" height="200"/>
 
