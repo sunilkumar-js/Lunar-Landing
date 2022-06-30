@@ -51,7 +51,7 @@ We observe that the spacecraft has learnt both to balance itself against freefal
 
 
 ## Comparision with Other Algorithms 
-We further compare Deep Q-Learning with other variants like vanilla Double Deep Q-Learning and updated version of Double Q-learning. We can see how rewards collected by spacecraft has increased with episodes trained.
+We further compare Deep Q-Learning with other variants like vanilla Double Deep Q-Learning and updated version of Double Q-Learning. We can see how rewards collected by spacecraft has increased with episodes trained.
 
 ### Progression 
 <img src="/images/progression.png" width="1000" height="200"/>
