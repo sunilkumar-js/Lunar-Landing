@@ -22,7 +22,7 @@ Possible actions our spacecraft can take are :
 - Fire Main engine (down engine)
 - Do Nothing 
 
-Essentially probelm statement boils down to learning a function , which takes state space as input and outputs which engine to fire so that our spacecraft lands at target pad.
+Essentially probelm statement boils down to learning a function, which takes state space as input and outputs which engine to fire so that our spacecraft lands at target pad.
 
 <img src="/images/RL diagram.png" width="400" height="250"/>
 
