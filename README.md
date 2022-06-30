@@ -1,7 +1,8 @@
 # Reinforcement Learning 
 
-When we think of learning a new task, trial and error is the first thing that strikes our mind. We learn how our sorroundings responds to what we do. For example, while baby is learning to walk , it is ware of how sorroundings (gravity, obstacles ) responds to what steps it take. It seeks to repeat steps that leads it walk longer and avoid steps that makes it fall. Reinforcement Learning is based on this paradigm i.e learning from interaction with sorroudings.
+When we think of learning a new task, trial and error is the first thing that strikes our mind. We learn how our sorroundings responds to what we do. For example, while baby is learning to walk , it is aware of how sorroundings (gravity, obstacles ) responds to what steps it take. It seeks to repeat steps that leads it walk longer and avoid steps that makes it fall. Reinforcement Learning is based on this paradigm i.e learning from interaction with sorroudings.
 
+Reinforcement learning( RL ) has enabled machines to learn complicated games like chess. The Elo rating of chess grand master Magnus Carlsen, 2864 looks paltry when compared to AlphaZero( machine trained using RL), 4680. That's how much powerful reinforcement learning is. 
 
 
 
