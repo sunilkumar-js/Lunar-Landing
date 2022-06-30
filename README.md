@@ -64,5 +64,7 @@ We can explore other algorithms like policy gradient to check if it learns at fa
 We can apply current algrithm to solve more complicated environments. For example amazon organizes AWS DeepRacing League(https://aws.amazon.com/deepracer/) in which we get to train our race car on various tracks and compete with other developers to achieve better lap time
 
 
-
+Resources : 
+1. https://towardsdatascience.com/double-deep-q-networks-905dd8325412
+2. https://goodboychan.github.io/python/reinforcement_learning/pytorch/udacity/2021/05/07/DQN-LunarLander.html
 
