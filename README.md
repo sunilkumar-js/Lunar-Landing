@@ -40,7 +40,7 @@ We observe that spacecraft is freely falling and crashes on to the surface
 
 ### Moderately trained Model ( After 400 episodes of training )
 <img src="/images/intermediate.gif" width="400" height="250"/>
-We observe now that spacraft has learnt how to balance itself against freefall however it is still taking longer time to towards target pad.
+We observe now that spaceraft has learnt how to balance itself against freefall. However it is still taking longer time to amke it's way towards target pad. Finally it doesn't land at target pad.
 
 
 
