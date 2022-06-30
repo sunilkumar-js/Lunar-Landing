@@ -8,7 +8,7 @@ In this project, I have implemented one of the simplest and widely popular "Q-le
 
 # Lunar Landing : 
 
-
+Problem statement : Space ship starts at top center with random initial force applied. It needs to be landed between the flags (home) using three engines.
 
 
 
