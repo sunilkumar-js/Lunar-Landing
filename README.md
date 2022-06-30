@@ -24,15 +24,15 @@ When we think of learning a new task, trial and error is one of the natural way 
 ## Deep Q learning : 
 
 #### Naive Model ( Before training )
-<img src="/images/naive.gif" width="250" height="250"/>
+<img src="/images/naive.gif" width="400" height="250"/>
 
 #### Moderately trained Model ( After 400 episodes of training )
-<img src="/images/intermediate.gif" width="250" height="250"/>
+<img src="/images/intermediate.gif" width="400" height="250"/>
 
 
 
 #### Sufficiently trained model (After 700 episodes of training )
-<img src="/images/trained_dqn.gif" width="250" height="250"/>
+<img src="/images/trained_dqn.gif" width="400" height="250"/>
 
 
 
