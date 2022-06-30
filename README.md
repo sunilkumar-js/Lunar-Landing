@@ -29,10 +29,10 @@ Essentially problem statement boils down to learning a function, which takes sta
 
 <img src="/images/RL diagram.png" width="400" height="250"/>
 
-# Results : 
+# Results
 
 
-## Deep Q learning : 
+## Deep Q learning
 
 ### Naive Model ( Before training )
 <img src="/images/naive.gif" width="400" height="250"/>
