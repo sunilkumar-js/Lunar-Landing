@@ -58,9 +58,9 @@ We further compare Deep Q-Learning with other variants like vanilla Double Deep 
 
 # Future Scope
 
-We can explore other algorithms like policy gradient to check if it learns at faster pace than current method.
+We can explore other algorithms like policy gradient to check if it learns faster pace than Q-Learning.
 
-We can apply current algorithm to solve more complicated environments. For example, amazon organizes <a href="https://aws.amazon.com/deepracer/">AWS Deep Racing League</a> in which we get to train our race car on various tracks and compete with other developers to achieve better lap time.
+We can apply current algorithm to solve more complicated environments. For example, amazon organizes <a href="https://aws.amazon.com/deepracer/">AWS Deep Racing League</a> in which we get to train our own car and race against other developers.
 
 
 Resources : 
