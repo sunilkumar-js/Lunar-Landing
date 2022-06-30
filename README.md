@@ -4,10 +4,7 @@ When we think of learning a new task, trial and error is the first thing that st
 
 Reinforcement learning( RL ) has enabled machines to learn complicated games like chess. The Elo rating of chess grand master Magnus Carlsen, 2864 looks paltry when compared to AlphaZero( machine trained using RL), 4680. That's how much powerful reinforcement learning is. 
 
-
-
-
-
+In this project, I have implemented one of the simplest and widely popular "Q-learning" algorithm to teach a spacecraft to land on target pad.
 
 # Lunar Landing : 
 
