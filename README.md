@@ -7,11 +7,9 @@ Reinforcement learning (RL) has enabled machines to learn complicated games like
 In this project, I have implemented one of the simplest and widely popular "Q-learning" algorithms to teach a spacecraft to land on a target pad.
 
 
-# Lunar Landing : 
+# Lunar Landing
 
-Problem statement: Space ship starts at the top center with random initial force applied. It needs to be landed between the flags (home) using three engines.
-
-Problem statement: Spaceship starts at the top center with random initial force applied. It needs to be landed between the flags (home) using three engines.
+Problem statement: Spacecraft starts at the top center with random initial force applied. It needs to be landed between the flags (home) using three engines.
 
 Here the state space (variables that determine the current position of our spacecraft are: 
 - Location of the spacecraft in the horizontal and vertical directions (x, y) 
