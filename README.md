@@ -11,9 +11,9 @@ In this project, I have implemented one of the simplest and widely popular "Q-le
 
 Problem statement: Spacecraft starts at the top center with random initial force applied. It needs to be landed between the flags (home) using three engines.
 
-Here the state space (variables that determine the current position of our spacecraft are: 
+Here the state space variables that determine the current position of our spacecraft are: 
 - Location of the spacecraft in the horizontal and vertical directions (x, y) 
-- Linear Velocities in the horizontal(u) and vertical direction (v)
+- Linear Velocities in the horizontal (u) and vertical direction (v)
 - Angle at which our spacecraft is aligned 
 - Angular velocity of our spacecraft 
 
