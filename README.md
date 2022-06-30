@@ -1,6 +1,6 @@
 # Reinforcement Learning 
 
-When we think of learning a new task, trial and error is one of the natural way of doing it. Let's take an example of a baby learning to walk. Baby tries to walk 
+When we think of learning a new task, trial and error is the first thing that strikes our mind. We learn how our sorroundings responds to what we do. For example, while baby is learning to walk , it is ware of how sorroundings (gravity, obstacles ) responds to what steps it take. It seeks to repeat steps that leads it walk longer and avoid steps that makes it fall. Reinforcement Learning is based on this paradigm i.e learning from interaction with sorroudings.
 
 
 
