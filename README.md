@@ -10,6 +10,19 @@ In this project, I have implemented one of the simplest and widely popular "Q-le
 
 Problem statement : Space ship starts at top center with random initial force applied. It needs to be landed between the flags (home) using three engines.
 
+Here the state space ( variables that determine the current poisition of our spacecraft are : 
+- Location of the spacecraft in horizontal and vertical direction ( x ,y) 
+- Linear Velocities in the horizontal and vertical direction (u,v)
+- Angle at which our spacecraft is aligned 
+- Angular velocity of our spacecraft 
+
+Possible action our spacecraft can take are : 
+- Fire Left engine 
+- Fire right engine 
+- Fire Main engine (down engine)
+- Do Nothing 
+
+Essentially reinforcement learning boils down to learning a function , which takes state space as input and outputs which engine to fire so that our spacecraft lands at target pad.
 
 <img src="/images/RL diagram.png" width="400" height="250"/>
 
