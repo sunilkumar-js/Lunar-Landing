@@ -36,11 +36,11 @@ Essentially problem statement boils down to learning a function, which takes sta
 
 ### Naive Model ( Before training )
 <img src="/images/naive.gif" width="400" height="250"/>
-We observe that spacecraft is freely falling and crashes on to the surface 
+We observe that spacecraft is freely falling and crashes on to the surface.
 
 ### Moderately trained Model ( After 400 episodes of training )
 <img src="/images/intermediate.gif" width="400" height="250"/>
-We observe now that spaceraft has learnt how to balance itself against freefall. However it is still taking longer time to amke it's way towards target pad. Finally it doesn't land at target pad.
+We observe now that spaceraft has learnt how to balance itself against freefall. However it is still learning how to make its way to target pad.
 
 
 
