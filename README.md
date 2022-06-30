@@ -47,17 +47,9 @@ We observe that the spacecraft has learnt both to balance itself against freefal
 
 
 ## Comparision with Other Algorithms 
-1. Double Deep Q learning : We see that Double deep Q learning takes almost twice episodes as Deep Q learning to train our model. This is becasue we are training either of the two models in a give episodes, so each model is likely to be half mature as model trained using Deep Q learning.
-
-
-3. Deouble deep Q learning (updated version) 
-
-### Comparison
-<img src="/images/comparison.png" width="400" height="250"/>
-
+We further compare Deep Q-Learning with other variants like vanilla Double Deep Qlearning and updated version of Double Q-learning. We can see how rewards collected by spacecraft has increased with episodes trained.  
 ### Progression 
 <img src="/images/progression.png" width="1000" height="200"/>
-
 
 # Future Scope
 
