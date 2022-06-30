@@ -19,7 +19,7 @@ Here the state space variables that determine the current position of our spacec
 
 Possible actions our spacecraft can take are: 
 - Fire Left engine 
-- Fire right engine 
+- Fire Right engine 
 - Fire Main engine (down engine)
 - Do Nothing 
 
