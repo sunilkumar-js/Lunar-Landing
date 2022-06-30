@@ -32,19 +32,19 @@ Essentially problem statement boils down to learning a function, which takes sta
 # Results : 
 
 
-## 1.Deep Q learning : 
+## Deep Q learning : 
 
-#### Naive Model ( Before training )
+### Naive Model ( Before training )
 <img src="/images/naive.gif" width="400" height="250"/>
 we observe that spacecraft is freely falling and crashes on to the surface 
 
-#### Moderately trained Model ( After 400 episodes of training )
+### Moderately trained Model ( After 400 episodes of training )
 <img src="/images/intermediate.gif" width="400" height="250"/>
 We observe now that spacraft has learnt how to balance itself against freefall however it is still taking longer time to towards target pad.
 
 
 
-#### Sufficiently trained model (After 700 episodes of training )
+### Sufficiently trained model (After 700 episodes of training )
 <img src="/images/trained_dqn.gif" width="400" height="250"/>
 We observe that the spacecraft has learnt both to balance itself against freefall and navigate towards target pad. Finally, it lands on target pad smoothly.
 
