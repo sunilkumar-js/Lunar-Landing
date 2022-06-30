@@ -23,7 +23,7 @@ Possible actions our spacecraft can take are:
 - Fire Main engine (down engine)
 - Do Nothing 
 
-Essentially problem statement boils down to learning a function, which takes state space as input and outputs which engine to fire so that our spacecraft lands at target pad.
+Essentially problem statement boils down to learning a function, which takes state space as an input and outputs which engine to fire so that our spacecraft lands at target pad.
 
 
 
